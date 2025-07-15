@@ -1,0 +1,581 @@
+INFO 2025-06-09 04:05:36,120 django.utils.autoreload 25527 140126777730880 Watching for file changes with StatReloader
+INFO 2025-06-09 04:05:36,932 chats.middleware 25527 140126746269440 Request logging initialized
+INFO 2025-06-09 04:06:17,399 chats.middleware 25527 140126663472896 2025-06-09 04:06:17.399451 - User:   - Path: /api/
+INFO 2025-06-09 04:06:20,959 chats.middleware 25527 140126663472896 2025-06-09 04:06:20.959001 - User:   - Path: /api/users/
+INFO 2025-06-09 04:06:47,181 chats.middleware 25527 140126663472896 2025-06-09 04:06:47.181005 - User:   - Path: /api/
+INFO 2025-06-09 04:06:56,096 chats.middleware 25527 140126663472896 2025-06-09 04:06:56.096842 - User:   - Path: /api/users/
+INFO 2025-06-09 04:07:38,877 chats.middleware 25527 140126663472896 2025-06-09 04:07:38.877175 - User:   - Path: /api/users/
+INFO 2025-06-09 04:07:54,768 chats.middleware 25527 140126663472896 2025-06-09 04:07:54.768715 - User:   - Path: /api/
+INFO 2025-06-09 04:08:09,177 chats.middleware 25527 140126663472896 2025-06-09 04:08:09.177769 - User:   - Path: /api/users/
+INFO 2025-06-09 04:08:33,027 chats.middleware 25527 140126655080192 2025-06-09 04:08:33.027258 - User:   - Path: /api/users/
+INFO 2025-06-09 08:43:16,049 django.utils.autoreload 25527 140126777730880 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 08:43:23,521 django.utils.autoreload 59168 139803193534272 Watching for file changes with StatReloader
+INFO 2025-06-09 09:09:24,351 django.utils.autoreload 59168 139803193534272 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 09:09:25,705 django.utils.autoreload 60689 139945211123520 Watching for file changes with StatReloader
+INFO 2025-06-09 09:09:34,402 django.utils.autoreload 60689 139945211123520 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 09:09:35,058 django.utils.autoreload 60742 140156461016896 Watching for file changes with StatReloader
+INFO 2025-06-09 09:24:54,152 django.utils.autoreload 60742 140156461016896 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 09:24:54,709 django.utils.autoreload 62294 139882383370048 Watching for file changes with StatReloader
+INFO 2025-06-09 09:24:54,932 chats.middleware 62294 139882351908608 Request logging initialized
+INFO 2025-06-09 09:25:40,369 django.utils.autoreload 62294 139882383370048 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 09:25:40,958 django.utils.autoreload 62379 140258761516864 Watching for file changes with StatReloader
+INFO 2025-06-09 09:44:00,206 django.utils.autoreload 62379 140258761516864 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 09:44:00,747 django.utils.autoreload 64268 140681764280128 Watching for file changes with StatReloader
+INFO 2025-06-09 09:44:01,044 chats.middleware 64268 140681732818688 Request logging initialized
+INFO 2025-06-09 09:44:47,604 django.utils.autoreload 64268 140681764280128 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 09:44:48,142 django.utils.autoreload 64390 140443226081088 Watching for file changes with StatReloader
+INFO 2025-06-09 09:44:48,396 chats.middleware 64390 140443194619648 Request logging initialized
+INFO 2025-06-09 09:54:07,311 django.utils.autoreload 64390 140443226081088 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/messaging_app/settings.py changed, reloading.
+INFO 2025-06-09 09:54:08,014 django.utils.autoreload 65342 140399230166848 Watching for file changes with StatReloader
+INFO 2025-06-09 09:54:08,326 chats.middleware 65342 140399198705408 Time base access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 09:54:08,326 chats.middleware 65342 140399198705408 Request logging initialized
+INFO 2025-06-09 09:57:23,112 django.utils.autoreload 65342 140399230166848 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 09:57:23,793 django.utils.autoreload 65702 140304178980672 Watching for file changes with StatReloader
+INFO 2025-06-09 09:57:24,076 chats.middleware 65702 140304147519232 Time base access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 09:57:24,077 chats.middleware 65702 140304147519232 Request logging initialized
+INFO 2025-06-09 09:58:50,236 django.utils.autoreload 65702 140304178980672 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 09:58:50,767 django.utils.autoreload 65907 140327614965568 Watching for file changes with StatReloader
+INFO 2025-06-09 09:58:51,041 chats.middleware 65907 140327583504128 Time base access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 09:58:51,042 chats.middleware 65907 140327583504128 Request logging initialized
+INFO 2025-06-09 09:59:16,095 django.utils.autoreload 65907 140327614965568 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 09:59:16,697 django.utils.autoreload 65968 139630734022464 Watching for file changes with StatReloader
+INFO 2025-06-09 09:59:17,070 chats.middleware 65968 139630702561024 Time base access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 09:59:17,071 chats.middleware 65968 139630702561024 Request logging initialized
+INFO 2025-06-09 10:05:11,062 django.utils.autoreload 65968 139630734022464 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 10:05:11,661 django.utils.autoreload 66599 140194035509056 Watching for file changes with StatReloader
+INFO 2025-06-09 10:05:11,916 chats.middleware 66599 140194004047616 Time base access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 10:05:11,917 chats.middleware 66599 140194004047616 Request logging initialized
+ERROR 2025-06-09 10:06:58,018 django.request 66599 140193990203136 Internal Server Error: /api/
+Traceback (most recent call last):
+  File "/home/alxprodev/alx-backend-python/messaging_app/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py", line 45, in __call__
+    if not self.is_time_allowed(current_time):
+  File "/home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py", line 40, in is_time_allowed
+    return self.start_time <= current_time <= self.end_time
+TypeError: '<=' not supported between instances of 'datetime.time' and 'builtin_function_or_method'
+INFO 2025-06-09 10:06:58,019 chats.middleware 66599 140193990203136 2025-06-09 10:06:58.019059+00:00 - User:   - Path: /api/
+INFO 2025-06-09 10:12:24,268 django.utils.autoreload 66599 140194035509056 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 10:12:24,929 django.utils.autoreload 67401 140166152890176 Watching for file changes with StatReloader
+INFO 2025-06-09 10:12:25,236 chats.middleware 67401 140166121428736 Time base access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 10:12:25,236 chats.middleware 67401 140166121428736 Request logging initialized
+INFO 2025-06-09 10:12:38,756 django.utils.autoreload 67401 140166152890176 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 10:12:39,273 django.utils.autoreload 67488 140541472847680 Watching for file changes with StatReloader
+INFO 2025-06-09 10:12:39,521 chats.middleware 67488 140541441386240 Time based access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 10:12:39,522 chats.middleware 67488 140541441386240 Request logging initialized
+WARNING 2025-06-09 10:12:56,078 chats.middleware 67488 140541427541760 Access denied at 10:12:56.078041 - Outside allowed hours
+INFO 2025-06-09 10:12:56,093 chats.middleware 67488 140541427541760 2025-06-09 10:12:56.093583+00:00 - User:   - Path: /api/
+WARNING 2025-06-09 10:12:56,094 django.request 67488 140541427541760 Forbidden: /api/
+INFO 2025-06-09 12:55:19,458 django.utils.autoreload 67488 140541472847680 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 12:55:21,547 django.utils.autoreload 84099 139789547001664 Watching for file changes with StatReloader
+INFO 2025-06-09 13:17:30,683 django.utils.autoreload 84099 139789547001664 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 13:17:31,426 django.utils.autoreload 86596 139787871381312 Watching for file changes with StatReloader
+INFO 2025-06-09 13:18:59,937 django.utils.autoreload 86596 139787871381312 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 13:19:00,474 django.utils.autoreload 86835 140022118942528 Watching for file changes with StatReloader
+INFO 2025-06-09 13:19:00,757 chats.middleware 86835 140022087481088 Time based access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 13:19:00,757 chats.middleware 86835 140022087481088 Request logging initialized
+INFO 2025-06-09 13:21:07,378 django.utils.autoreload 86835 140022118942528 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 13:21:07,894 django.utils.autoreload 87092 140125209155392 Watching for file changes with StatReloader
+INFO 2025-06-09 13:21:08,138 chats.middleware 87092 140125177693952 Time based access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 13:21:08,139 chats.middleware 87092 140125177693952 Request logging initialized
+WARNING 2025-06-09 13:23:50,935 chats.middleware 87092 140125163849472 Access denied at 13:23:50.935692 - Outside allowed hours
+INFO 2025-06-09 13:23:50,958 chats.middleware 87092 140125163849472 2025-06-09 13:23:50.958887+00:00 - User:   - Path: /api/register/
+WARNING 2025-06-09 13:23:50,959 django.request 87092 140125163849472 Forbidden: /api/register/
+INFO 2025-06-09 13:29:04,005 django.utils.autoreload 87092 140125209155392 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/messaging_app/settings.py changed, reloading.
+INFO 2025-06-09 13:29:04,653 django.utils.autoreload 88018 139850056787776 Watching for file changes with StatReloader
+INFO 2025-06-09 13:29:04,955 chats.middleware 88018 139850025326336 Time based access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 13:29:04,956 chats.middleware 88018 139850025326336 Request logging initialized
+INFO 2025-06-09 13:42:06,185 django.utils.autoreload 88018 139850056787776 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 13:42:08,188 django.utils.autoreload 89418 140452520527680 Watching for file changes with StatReloader
+INFO 2025-06-09 13:42:08,508 chats.middleware 89418 140452489066240 Time based access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 13:42:08,509 chats.middleware 89418 140452489066240 Request logging initialized
+INFO 2025-06-09 13:50:58,164 django.utils.autoreload 89418 140452520527680 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 13:50:58,755 django.utils.autoreload 90448 140701584115520 Watching for file changes with StatReloader
+INFO 2025-06-09 13:50:59,010 chats.middleware 90448 140701552654080 Time based access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 13:50:59,011 chats.middleware 90448 140701552654080 Request logging initialized
+WARNING 2025-06-09 13:53:21,783 chats.middleware 90448 140701538809600 Access denied at 13:53:21.783179 - Outside allowed hours
+INFO 2025-06-09 13:53:21,783 chats.middleware 90448 140701538809600 2025-06-09 13:53:21.783864+00:00 - User: Anonymous - Path: /api/token/
+WARNING 2025-06-09 13:53:21,784 django.request 90448 140701538809600 Forbidden: /api/token/
+INFO 2025-06-09 13:55:38,365 django.utils.autoreload 90448 140701584115520 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-09 13:55:39,064 django.utils.autoreload 91140 140642626168640 Watching for file changes with StatReloader
+INFO 2025-06-09 13:55:39,463 chats.middleware 91140 140642594707200 Time based access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-09 13:55:39,464 chats.middleware 91140 140642594707200 Request logging initialized
+INFO 2025-06-10 03:51:00,208 django.utils.autoreload 3042 140303029040960 Watching for file changes with StatReloader
+INFO 2025-06-10 03:51:00,938 chats.middleware 3042 140302997579520 Time based access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-10 03:51:00,939 chats.middleware 3042 140302997579520 Request logging initialized
+INFO 2025-06-10 05:20:52,154 django.utils.autoreload 5891 139809390290752 Watching for file changes with StatReloader
+INFO 2025-06-10 05:20:52,476 chats.middleware 5891 139809358829312 Time based access is in place: 18:00:00 to 21:00:00
+INFO 2025-06-10 05:20:52,477 chats.middleware 5891 139809358829312 Request logging initialized
+WARNING 2025-06-10 05:21:03,025 chats.middleware 5891 139809344984832 Access denied at 05:21:03.025910 - Outside allowed hours
+INFO 2025-06-10 05:21:03,086 chats.middleware 5891 139809344984832 2025-06-10 05:21:03.086642+00:00 - User:   - Path: /
+WARNING 2025-06-10 05:21:03,087 django.request 5891 139809344984832 Forbidden: /
+WARNING 2025-06-10 05:21:04,287 chats.middleware 5891 139809344984832 Access denied at 05:21:04.287529 - Outside allowed hours
+INFO 2025-06-10 05:21:04,292 chats.middleware 5891 139809344984832 2025-06-10 05:21:04.292481+00:00 - User:   - Path: /favicon.ico
+WARNING 2025-06-10 05:21:04,293 django.request 5891 139809344984832 Forbidden: /favicon.ico
+INFO 2025-06-10 05:21:26,175 django.utils.autoreload 5891 139809390290752 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/messaging_app/settings.py changed, reloading.
+INFO 2025-06-10 05:21:26,804 django.utils.autoreload 6024 140711135012672 Watching for file changes with StatReloader
+INFO 2025-06-10 05:21:27,096 chats.middleware 6024 140711103551232 Request logging initialized
+ERROR 2025-06-10 05:21:32,336 django.request 6024 140711081314048 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/alxprodev/alx-backend-python/messaging_app/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py", line 81, in __call__
+    cache.set(key, request_times, timeout=self.WINDOW_SECONDS)
+UnboundLocalError: local variable 'key' referenced before assignment
+INFO 2025-06-10 05:21:32,337 chats.middleware 6024 140711081314048 2025-06-10 05:21:32.337684+00:00 - User:   - Path: /
+ERROR 2025-06-10 05:21:33,150 django.request 6024 140711081314048 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/home/alxprodev/alx-backend-python/messaging_app/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py", line 81, in __call__
+    cache.set(key, request_times, timeout=self.WINDOW_SECONDS)
+UnboundLocalError: local variable 'key' referenced before assignment
+INFO 2025-06-10 05:21:33,151 chats.middleware 6024 140711081314048 2025-06-10 05:21:33.151297+00:00 - User:   - Path: /favicon.ico
+ERROR 2025-06-10 05:21:50,579 django.request 6024 140711081314048 Internal Server Error: /api/
+Traceback (most recent call last):
+  File "/home/alxprodev/alx-backend-python/messaging_app/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py", line 81, in __call__
+    cache.set(key, request_times, timeout=self.WINDOW_SECONDS)
+UnboundLocalError: local variable 'key' referenced before assignment
+INFO 2025-06-10 05:21:50,580 chats.middleware 6024 140711081314048 2025-06-10 05:21:50.580104+00:00 - User:   - Path: /api/
+ERROR 2025-06-10 05:21:51,074 django.request 6024 140711081314048 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/home/alxprodev/alx-backend-python/messaging_app/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py", line 81, in __call__
+    cache.set(key, request_times, timeout=self.WINDOW_SECONDS)
+UnboundLocalError: local variable 'key' referenced before assignment
+INFO 2025-06-10 05:21:51,074 chats.middleware 6024 140711081314048 2025-06-10 05:21:51.074733+00:00 - User:   - Path: /favicon.ico
+INFO 2025-06-10 05:26:05,164 django.utils.autoreload 6415 139873198671680 Watching for file changes with StatReloader
+INFO 2025-06-10 05:26:05,387 chats.middleware 6415 139873167210240 Request logging initialized
+ERROR 2025-06-10 05:26:11,439 django.request 6415 139873144973056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/alxprodev/alx-backend-python/messaging_app/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py", line 81, in __call__
+    cache.set(key, request_times, timeout=self.WINDOW_SECONDS)
+UnboundLocalError: local variable 'key' referenced before assignment
+INFO 2025-06-10 05:26:11,440 chats.middleware 6415 139873144973056 2025-06-10 05:26:11.440439+00:00 - User:   - Path: /
+ERROR 2025-06-10 05:26:12,846 django.request 6415 139873144973056 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/home/alxprodev/alx-backend-python/messaging_app/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py", line 81, in __call__
+    cache.set(key, request_times, timeout=self.WINDOW_SECONDS)
+UnboundLocalError: local variable 'key' referenced before assignment
+INFO 2025-06-10 05:26:12,846 chats.middleware 6415 139873144973056 2025-06-10 05:26:12.846850+00:00 - User:   - Path: /favicon.ico
+INFO 2025-06-10 05:34:33,919 django.utils.autoreload 6415 139873198671680 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-10 05:34:34,560 django.utils.autoreload 6883 139948377245504 Watching for file changes with StatReloader
+INFO 2025-06-10 05:34:34,897 chats.middleware 6883 139948345784064 Request logging initialized
+INFO 2025-06-10 05:34:40,981 chats.middleware 6883 139948331939584 2025-06-10 05:34:40.981559+00:00 - User:   - Path: /
+WARNING 2025-06-10 05:34:40,982 django.request 6883 139948331939584 Not Found: /
+INFO 2025-06-10 05:34:41,687 chats.middleware 6883 139948331939584 2025-06-10 05:34:41.687636+00:00 - User:   - Path: /favicon.ico
+WARNING 2025-06-10 05:34:41,698 django.request 6883 139948331939584 Not Found: /favicon.ico
+INFO 2025-06-10 05:34:48,719 chats.middleware 6883 139948331939584 2025-06-10 05:34:48.719376+00:00 - User:   - Path: /api/
+INFO 2025-06-10 05:34:51,101 chats.middleware 6883 139948323546880 2025-06-10 05:34:51.101136+00:00 - User:   - Path: /api/users/
+INFO 2025-06-10 05:35:22,497 chats.middleware 6883 139948323546880 2025-06-10 05:35:22.495455+00:00 - User:   - Path: /api/users/
+INFO 2025-06-10 05:35:35,482 chats.middleware 6883 139948323546880 2025-06-10 05:35:35.482140+00:00 - User:   - Path: /api/
+INFO 2025-06-10 05:35:37,401 chats.middleware 6883 139948323546880 2025-06-10 05:35:37.401101+00:00 - User:   - Path: /api/messages/
+INFO 2025-06-10 05:36:02,877 chats.middleware 6883 139948323546880 2025-06-10 05:36:02.877374+00:00 - User:   - Path: /api-auth/login/
+INFO 2025-06-10 05:39:57,798 django.utils.autoreload 7612 139810746156864 Watching for file changes with StatReloader
+INFO 2025-06-10 05:39:58,006 chats.middleware 7612 139810714695424 Request logging initialized
+INFO 2025-06-10 05:40:01,863 chats.middleware 7612 139810700850944 2025-06-10 05:40:01.863610+00:00 - User:   - Path: /api-auth/login/
+INFO 2025-06-10 05:40:14,334 chats.middleware 7612 139810700850944 2025-06-10 05:40:14.334120+00:00 - User:   - Path: /api-auth/login/
+INFO 2025-06-10 05:40:14,473 chats.middleware 7612 139810700850944 2025-06-10 05:40:14.473378+00:00 - User:   - Path: /api/
+INFO 2025-06-10 05:40:47,468 chats.middleware 7612 139810692458240 2025-06-10 05:40:47.468585+00:00 - User:   - Path: /api/users/
+INFO 2025-06-10 05:40:51,643 chats.middleware 7612 139810692458240 2025-06-10 05:40:51.643146+00:00 - User:   - Path: /api/
+INFO 2025-06-10 05:40:53,911 chats.middleware 7612 139810692458240 2025-06-10 05:40:53.911458+00:00 - User:   - Path: /api/messages/
+INFO 2025-06-10 05:41:17,534 chats.middleware 7612 139810700850944 2025-06-10 05:41:17.534167+00:00 - User:   - Path: /api/messages/
+INFO 2025-06-10 05:41:27,664 chats.middleware 7612 139810700850944 2025-06-10 05:41:27.664795+00:00 - User:   - Path: /api/
+INFO 2025-06-10 05:41:30,242 chats.middleware 7612 139810700850944 2025-06-10 05:41:30.242155+00:00 - User:   - Path: /api/conversations/
+INFO 2025-06-10 05:41:41,103 chats.middleware 7612 139810692458240 2025-06-10 05:41:41.103916+00:00 - User:   - Path: /api/conversations/
+INFO 2025-06-10 05:41:45,106 chats.middleware 7612 139810692458240 2025-06-10 05:41:45.106920+00:00 - User:   - Path: /api/conversations/
+INFO 2025-06-10 05:58:55,110 chats.middleware 7612 139810692458240 2025-06-10 05:58:55.110879+00:00 - User:   - Path: /api/admin/
+WARNING 2025-06-10 05:58:55,112 django.request 7612 139810692458240 Not Found: /api/admin/
+INFO 2025-06-10 05:59:12,918 chats.middleware 7612 139810692458240 2025-06-10 05:59:12.918840+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:00:02,936 chats.middleware 7612 139810680547072 2025-06-10 06:00:02.936181+00:00 - User:   - Path: /
+WARNING 2025-06-10 06:00:02,936 django.request 7612 139810680547072 Not Found: /
+INFO 2025-06-10 06:00:05,742 chats.middleware 7612 139810680547072 2025-06-10 06:00:05.742880+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:00:10,921 chats.middleware 7612 139810680547072 2025-06-10 06:00:10.921291+00:00 - User: Anonymous - Path: /admin/logout/
+INFO 2025-06-10 06:00:12,815 chats.middleware 7612 139810680547072 2025-06-10 06:00:12.815157+00:00 - User: Anonymous - Path: /admin/
+INFO 2025-06-10 06:00:12,876 chats.middleware 7612 139810680547072 2025-06-10 06:00:12.876339+00:00 - User: Anonymous - Path: /admin/login/
+INFO 2025-06-10 06:00:16,164 chats.middleware 7612 139810680547072 2025-06-10 06:00:16.164032+00:00 - User:   - Path: /admin/login/
+INFO 2025-06-10 06:00:16,237 chats.middleware 7612 139810680547072 2025-06-10 06:00:16.237309+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:02:03,523 chats.middleware 7612 139810680547072 2025-06-10 06:02:03.523064+00:00 - User:   - Path: /admin/auth/group/add/
+INFO 2025-06-10 06:02:03,632 chats.middleware 7612 139810700850944 2025-06-10 06:02:03.632032+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:02:24,035 chats.middleware 7612 139810700850944 2025-06-10 06:02:24.035312+00:00 - User:   - Path: /admin/auth/group/add/
+INFO 2025-06-10 06:02:24,123 chats.middleware 7612 139810700850944 2025-06-10 06:02:24.123224+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 06:02:24,275 chats.middleware 7612 139810672154368 2025-06-10 06:02:24.275034+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:02:31,429 chats.middleware 7612 139810303895296 2025-06-10 06:02:31.429851+00:00 - User:   - Path: /admin/auth/group/add/
+INFO 2025-06-10 06:02:31,502 chats.middleware 7612 139810303895296 2025-06-10 06:02:31.502837+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:03:36,096 chats.middleware 7612 139810303895296 2025-06-10 06:03:36.096700+00:00 - User:   - Path: /admin/auth/group/add/
+INFO 2025-06-10 06:03:36,183 chats.middleware 7612 139810303895296 2025-06-10 06:03:36.183812+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 06:03:36,324 chats.middleware 7612 139810303895296 2025-06-10 06:03:36.324419+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:13:38,914 chats.middleware 7612 139810303895296 2025-06-10 06:13:38.914060+00:00 - User:   - Path: /admin/auth/group/1/change/
+INFO 2025-06-10 06:13:39,261 chats.middleware 7612 139810303895296 2025-06-10 06:13:39.261688+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:14:03,600 chats.middleware 7612 139810303895296 2025-06-10 06:14:03.600658+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:14:18,781 chats.middleware 7612 139810700850944 2025-06-10 06:14:18.781107+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:14:18,898 chats.middleware 7612 139810700850944 2025-06-10 06:14:18.898063+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:14:24,853 chats.middleware 7612 139810700850944 2025-06-10 06:14:24.853701+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:14:24,917 chats.middleware 7612 139810700850944 2025-06-10 06:14:24.917225+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:14:25,029 chats.middleware 7612 139810700850944 2025-06-10 06:14:25.029778+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:14:28,677 chats.middleware 7612 139810700850944 2025-06-10 06:14:28.677693+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:14:30,578 chats.middleware 7612 139810700850944 2025-06-10 06:14:30.578733+00:00 - User:   - Path: /
+WARNING 2025-06-10 06:14:30,579 django.request 7612 139810700850944 Not Found: /
+INFO 2025-06-10 06:14:35,818 chats.middleware 7612 139810700850944 2025-06-10 06:14:35.818233+00:00 - User:   - Path: /api/
+INFO 2025-06-10 06:14:37,793 chats.middleware 7612 139810700850944 2025-06-10 06:14:37.793256+00:00 - User:   - Path: /api/users/
+INFO 2025-06-10 06:14:46,982 chats.middleware 7612 139810700850944 2025-06-10 06:14:46.982628+00:00 - User:   - Path: /api/users/
+INFO 2025-06-10 06:15:12,086 chats.middleware 7612 139810700850944 2025-06-10 06:15:12.086833+00:00 - User:   - Path: /api/users/
+INFO 2025-06-10 06:15:41,684 chats.middleware 7612 139810303895296 2025-06-10 06:15:41.683978+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:15:56,495 chats.middleware 7612 139810303895296 2025-06-10 06:15:56.495905+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:15:56,596 chats.middleware 7612 139810303895296 2025-06-10 06:15:56.596730+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:15:58,539 chats.middleware 7612 139810303895296 2025-06-10 06:15:58.539042+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:15:58,594 chats.middleware 7612 139810303895296 2025-06-10 06:15:58.594227+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 06:15:59,074 chats.middleware 7612 139810303895296 2025-06-10 06:15:59.074067+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:16:01,827 chats.middleware 7612 139810303895296 2025-06-10 06:16:01.827113+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:16:01,902 chats.middleware 7612 139810303895296 2025-06-10 06:16:01.902160+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:16:04,669 chats.middleware 7612 139810303895296 2025-06-10 06:16:04.669966+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:16:04,702 chats.middleware 7612 139810303895296 2025-06-10 06:16:04.702756+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 06:16:04,894 chats.middleware 7612 139810303895296 2025-06-10 06:16:04.894292+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:16:09,140 chats.middleware 7612 139810303895296 2025-06-10 06:16:09.140239+00:00 - User:   - Path: /admin/auth/
+INFO 2025-06-10 06:16:12,462 chats.middleware 7612 139810303895296 2025-06-10 06:16:12.462693+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 06:16:12,542 chats.middleware 7612 139810303895296 2025-06-10 06:16:12.542310+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:16:20,586 chats.middleware 7612 139810303895296 2025-06-10 06:16:20.586935+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:16:20,655 chats.middleware 7612 139810303895296 2025-06-10 06:16:20.655423+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:16:23,898 chats.middleware 7612 139810303895296 2025-06-10 06:16:23.898901+00:00 - User:   - Path: /admin/auth/group/2/history/
+INFO 2025-06-10 06:16:27,825 chats.middleware 7612 139810303895296 2025-06-10 06:16:27.825431+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:17:17,609 chats.middleware 7612 139810303895296 2025-06-10 06:17:17.609509+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:17:17,716 chats.middleware 7612 139810303895296 2025-06-10 06:17:17.716106+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:17:19,162 chats.middleware 7612 139810303895296 2025-06-10 06:17:19.162020+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:17:19,196 chats.middleware 7612 139810303895296 2025-06-10 06:17:19.196074+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 06:17:19,344 chats.middleware 7612 139810303895296 2025-06-10 06:17:19.344293+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:17:22,378 chats.middleware 7612 139810303895296 2025-06-10 06:17:22.378381+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:18:36,549 chats.middleware 7612 139810303895296 2025-06-10 06:18:36.549510+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:18:38,151 chats.middleware 7612 139810303895296 2025-06-10 06:18:38.151890+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:21:44,246 django.utils.autoreload 7612 139810746156864 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/admin.py changed, reloading.
+INFO 2025-06-10 06:21:45,493 django.utils.autoreload 11077 139904102217536 Watching for file changes with StatReloader
+INFO 2025-06-10 06:21:45,714 chats.middleware 11077 139904070756096 Request logging initialized
+INFO 2025-06-10 06:21:50,000 django.utils.autoreload 11077 139904102217536 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/admin.py changed, reloading.
+INFO 2025-06-10 06:21:50,582 django.utils.autoreload 11100 140635653068608 Watching for file changes with StatReloader
+INFO 2025-06-10 06:21:50,862 chats.middleware 11100 140635621607168 Request logging initialized
+INFO 2025-06-10 06:21:55,193 django.utils.autoreload 11100 140635653068608 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/admin.py changed, reloading.
+INFO 2025-06-10 06:21:55,719 django.utils.autoreload 11166 139998124992320 Watching for file changes with StatReloader
+INFO 2025-06-10 06:21:55,930 chats.middleware 11166 139998093530880 Request logging initialized
+INFO 2025-06-10 06:22:00,782 chats.middleware 11166 139998012552960 2025-06-10 06:22:00.782011+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:22:04,834 chats.middleware 11166 139998012552960 2025-06-10 06:22:04.834449+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:22:04,946 chats.middleware 11166 139998012552960 2025-06-10 06:22:04.946403+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:22:31,286 chats.middleware 11166 139998012552960 2025-06-10 06:22:31.286480+00:00 - User:   - Path: /admin/auth/group/add/
+INFO 2025-06-10 06:22:31,394 chats.middleware 11166 139998012552960 2025-06-10 06:22:31.394802+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:22:43,735 chats.middleware 11166 139998004160256 2025-06-10 06:22:43.735227+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:22:47,533 chats.middleware 11166 139998012552960 2025-06-10 06:22:47.533462+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:22:47,628 chats.middleware 11166 139998012552960 2025-06-10 06:22:47.628360+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:22:49,115 chats.middleware 11166 139998012552960 2025-06-10 06:22:49.115062+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:22:49,194 chats.middleware 11166 139998012552960 2025-06-10 06:22:49.194247+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 06:22:49,534 chats.middleware 11166 139998012552960 2025-06-10 06:22:49.534299+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:22:53,022 chats.middleware 11166 139998012552960 2025-06-10 06:22:53.021958+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:22:56,072 chats.middleware 11166 139998012552960 2025-06-10 06:22:56.072855+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:22:56,193 chats.middleware 11166 139998012552960 2025-06-10 06:22:56.193672+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:23:01,996 chats.middleware 11166 139998012552960 2025-06-10 06:23:01.996759+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-10 06:23:02,039 chats.middleware 11166 139998012552960 2025-06-10 06:23:02.039185+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 06:23:02,216 chats.middleware 11166 139998012552960 2025-06-10 06:23:02.216690+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:23:05,447 chats.middleware 11166 139998004160256 2025-06-10 06:23:05.447211+00:00 - User:   - Path: /admin/auth/
+INFO 2025-06-10 06:23:07,343 chats.middleware 11166 139998004160256 2025-06-10 06:23:07.343684+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 06:23:14,393 chats.middleware 11166 139998004160256 2025-06-10 06:23:14.393231+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:23:14,507 chats.middleware 11166 139998004160256 2025-06-10 06:23:14.507838+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:23:30,802 chats.middleware 11166 139998004160256 2025-06-10 06:23:30.802422+00:00 - User:   - Path: /admin/chats/customuser/90dcfe84-7abb-4438-8b86-4f11bafaba99/change/
+INFO 2025-06-10 06:23:30,951 chats.middleware 11166 139997992773376 2025-06-10 06:23:30.951045+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:24:01,608 chats.middleware 11166 139998012552960 2025-06-10 06:24:01.608905+00:00 - User:   - Path: /admin/chats/customuser/90dcfe84-7abb-4438-8b86-4f11bafaba99/change/
+INFO 2025-06-10 06:24:01,814 chats.middleware 11166 139998012552960 2025-06-10 06:24:01.814378+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:24:01,923 chats.middleware 11166 139998012552960 2025-06-10 06:24:01.923109+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:24:09,005 chats.middleware 11166 139998012552960 2025-06-10 06:24:09.004411+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:24:09,121 chats.middleware 11166 139998012552960 2025-06-10 06:24:09.121633+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:24:13,118 chats.middleware 11166 139998012552960 2025-06-10 06:24:13.118225+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:24:13,225 chats.middleware 11166 139998012552960 2025-06-10 06:24:13.224953+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:24:15,567 chats.middleware 11166 139998012552960 2025-06-10 06:24:15.567476+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:24:15,651 chats.middleware 11166 139998012552960 2025-06-10 06:24:15.651676+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:24:18,521 chats.middleware 11166 139998012552960 2025-06-10 06:24:18.521096+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:24:18,683 chats.middleware 11166 139998012552960 2025-06-10 06:24:18.682956+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:24:24,716 chats.middleware 11166 139998012552960 2025-06-10 06:24:24.716154+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:24:24,814 chats.middleware 11166 139998012552960 2025-06-10 06:24:24.814444+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:24:37,445 chats.middleware 11166 139998012552960 2025-06-10 06:24:37.445155+00:00 - User:   - Path: /admin/chats/customuser/ba5af311-71fb-4f04-9100-283f490aa328/change/
+INFO 2025-06-10 06:24:37,553 chats.middleware 11166 139998012552960 2025-06-10 06:24:37.553072+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:25:05,975 chats.middleware 11166 139998012552960 2025-06-10 06:25:05.975675+00:00 - User:   - Path: /admin/chats/customuser/ba5af311-71fb-4f04-9100-283f490aa328/change/
+INFO 2025-06-10 06:25:06,044 chats.middleware 11166 139998012552960 2025-06-10 06:25:06.044231+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:25:06,201 chats.middleware 11166 139998012552960 2025-06-10 06:25:06.201925+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:25:13,420 chats.middleware 11166 139998012552960 2025-06-10 06:25:13.420323+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:25:13,505 chats.middleware 11166 139998012552960 2025-06-10 06:25:13.504994+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:25:16,300 chats.middleware 11166 139998012552960 2025-06-10 06:25:16.300690+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:25:16,393 chats.middleware 11166 139998012552960 2025-06-10 06:25:16.393822+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:25:18,907 chats.middleware 11166 139998012552960 2025-06-10 06:25:18.906970+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:25:18,961 chats.middleware 11166 139998012552960 2025-06-10 06:25:18.961388+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:25:32,224 chats.middleware 11166 139998012552960 2025-06-10 06:25:32.224351+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:25:32,290 chats.middleware 11166 139998012552960 2025-06-10 06:25:32.290494+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:25:36,985 chats.middleware 11166 139998012552960 2025-06-10 06:25:36.985708+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:25:37,121 chats.middleware 11166 139998012552960 2025-06-10 06:25:37.121859+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:25:40,076 chats.middleware 11166 139998012552960 2025-06-10 06:25:40.076675+00:00 - User:   - Path: /admin/chats/customuser/90dcfe84-7abb-4438-8b86-4f11bafaba99/change/
+INFO 2025-06-10 06:25:40,169 chats.middleware 11166 139998012552960 2025-06-10 06:25:40.169286+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:25:49,713 chats.middleware 11166 139998012552960 2025-06-10 06:25:49.713763+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:25:49,811 chats.middleware 11166 139998012552960 2025-06-10 06:25:49.811761+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 06:26:18,564 chats.middleware 11166 139998012552960 2025-06-10 06:26:18.564688+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:26:18,690 chats.middleware 11166 139998012552960 2025-06-10 06:26:18.690702+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 06:26:18,816 chats.middleware 11166 139998012552960 2025-06-10 06:26:18.816295+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 07:53:52,774 chats.middleware 11166 139998012552960 2025-06-10 07:53:52.771060+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 07:53:53,145 chats.middleware 11166 139998012552960 2025-06-10 07:53:53.144864+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 08:01:55,058 chats.middleware 11166 139998004160256 2025-06-10 08:01:55.058732+00:00 - User:   - Path: /admin/auth/group/1/change/
+INFO 2025-06-10 08:01:55,341 chats.middleware 11166 139998004160256 2025-06-10 08:01:55.341778+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 08:02:00,570 chats.middleware 11166 139998004160256 2025-06-10 08:02:00.570426+00:00 - User:   - Path: /admin/
+INFO 2025-06-10 08:02:03,973 chats.middleware 11166 139998004160256 2025-06-10 08:02:03.973589+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 08:02:04,159 chats.middleware 11166 139998004160256 2025-06-10 08:02:04.159459+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 08:02:07,554 chats.middleware 11166 139998004160256 2025-06-10 08:02:07.554919+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 08:02:07,671 chats.middleware 11166 139998004160256 2025-06-10 08:02:07.671816+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 08:02:11,572 chats.middleware 11166 139998004160256 2025-06-10 08:02:11.572750+00:00 - User:   - Path: /admin/chats/customuser/ba5af311-71fb-4f04-9100-283f490aa328/change/
+INFO 2025-06-10 08:02:11,763 chats.middleware 11166 139998004160256 2025-06-10 08:02:11.763499+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 08:02:21,511 chats.middleware 11166 139998004160256 2025-06-10 08:02:21.511223+00:00 - User:   - Path: /admin/chats/
+INFO 2025-06-10 08:02:24,901 chats.middleware 11166 139998004160256 2025-06-10 08:02:24.901842+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 08:02:25,034 chats.middleware 11166 139998004160256 2025-06-10 08:02:25.034636+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:30:22,518 chats.middleware 11166 139998012552960 2025-06-10 15:30:22.502561+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:30:30,141 chats.middleware 11166 139998012552960 2025-06-10 15:30:30.141673+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 15:30:30,352 chats.middleware 11166 139998012552960 2025-06-10 15:30:30.352860+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:30:39,605 chats.middleware 11166 139998012552960 2025-06-10 15:30:39.604832+00:00 - User:   - Path: /admin/auth/group/3/change/
+INFO 2025-06-10 15:30:39,812 chats.middleware 11166 139998012552960 2025-06-10 15:30:39.812486+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:30:48,226 chats.middleware 11166 139998012552960 2025-06-10 15:30:48.226649+00:00 - User:   - Path: /admin/auth/
+INFO 2025-06-10 15:30:50,770 chats.middleware 11166 139998012552960 2025-06-10 15:30:50.769912+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 15:30:50,936 chats.middleware 11166 139998012552960 2025-06-10 15:30:50.936106+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:31:05,263 chats.middleware 11166 139998012552960 2025-06-10 15:31:05.262979+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 15:31:16,811 chats.middleware 11166 139998012552960 2025-06-10 15:31:16.811752+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 15:31:16,941 chats.middleware 11166 139998012552960 2025-06-10 15:31:16.941240+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-10 15:31:17,156 chats.middleware 11166 139998012552960 2025-06-10 15:31:17.156068+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:31:22,524 chats.middleware 11166 139998012552960 2025-06-10 15:31:22.524201+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:31:22,817 chats.middleware 11166 139998012552960 2025-06-10 15:31:22.817011+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:15,592 chats.middleware 11166 139998012552960 2025-06-10 15:33:15.592237+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:15,813 chats.middleware 11166 139998004160256 2025-06-10 15:33:15.813171+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:22,014 chats.middleware 11166 139998004160256 2025-06-10 15:33:22.014829+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:22,226 chats.middleware 11166 139998004160256 2025-06-10 15:33:22.226765+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:26,155 chats.middleware 11166 139998004160256 2025-06-10 15:33:26.155142+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:26,312 chats.middleware 11166 139998004160256 2025-06-10 15:33:26.312237+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:32,914 chats.middleware 11166 139998004160256 2025-06-10 15:33:32.914613+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:33,094 chats.middleware 11166 139998004160256 2025-06-10 15:33:33.094458+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:35,958 chats.middleware 11166 139998004160256 2025-06-10 15:33:35.958535+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:36,111 chats.middleware 11166 139998004160256 2025-06-10 15:33:36.111722+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:38,635 chats.middleware 11166 139998004160256 2025-06-10 15:33:38.634944+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:38,753 chats.middleware 11166 139998004160256 2025-06-10 15:33:38.753707+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:42,744 chats.middleware 11166 139998004160256 2025-06-10 15:33:42.744791+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:42,869 chats.middleware 11166 139998004160256 2025-06-10 15:33:42.869150+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:48,941 chats.middleware 11166 139998004160256 2025-06-10 15:33:48.941774+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:49,099 chats.middleware 11166 139998004160256 2025-06-10 15:33:49.099389+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:50,823 chats.middleware 11166 139998004160256 2025-06-10 15:33:50.823476+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:51,036 chats.middleware 11166 139998004160256 2025-06-10 15:33:51.036709+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:53,774 chats.middleware 11166 139998004160256 2025-06-10 15:33:53.774669+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:53,969 chats.middleware 11166 139998004160256 2025-06-10 15:33:53.969623+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-10 15:33:57,402 chats.middleware 11166 139998004160256 2025-06-10 15:33:57.402676+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-10 15:33:57,606 chats.middleware 11166 139998004160256 2025-06-10 15:33:57.606178+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 01:19:22,834 django.utils.autoreload 11566 140562238175040 Watching for file changes with StatReloader
+INFO 2025-06-11 01:19:23,392 chats.middleware 11566 140562206713600 Request logging initialized
+INFO 2025-06-11 01:19:30,182 chats.middleware 11566 140562184476416 2025-06-11 01:19:30.182115+00:00 - User:   - Path: /
+WARNING 2025-06-11 01:19:30,182 django.request 11566 140562184476416 Not Found: /
+INFO 2025-06-11 01:19:31,421 chats.middleware 11566 140562184476416 2025-06-11 01:19:31.421312+00:00 - User:   - Path: /favicon.ico
+WARNING 2025-06-11 01:19:31,422 django.request 11566 140562184476416 Not Found: /favicon.ico
+INFO 2025-06-11 01:19:47,350 chats.middleware 11566 140562184476416 2025-06-11 01:19:47.350714+00:00 - User:   - Path: /api/protected/
+WARNING 2025-06-11 01:19:47,351 django.request 11566 140562184476416 Not Found: /api/protected/
+INFO 2025-06-11 01:20:10,504 chats.middleware 11566 140562184476416 2025-06-11 01:20:10.504699+00:00 - User:   - Path: /api/admin-only/
+WARNING 2025-06-11 01:20:10,505 django.request 11566 140562184476416 Not Found: /api/admin-only/
+INFO 2025-06-11 01:24:06,791 django.utils.autoreload 11566 140562238175040 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 01:24:07,317 django.utils.autoreload 12627 140457765332800 Watching for file changes with StatReloader
+INFO 2025-06-11 01:24:07,546 chats.middleware 12627 140457733871360 Request logging initialized
+INFO 2025-06-11 01:34:40,656 django.utils.autoreload 12627 140457765332800 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 01:34:41,163 django.utils.autoreload 14731 140210088130368 Watching for file changes with StatReloader
+INFO 2025-06-11 01:36:56,818 django.utils.autoreload 14731 140210088130368 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 01:36:57,403 django.utils.autoreload 15206 140361456342848 Watching for file changes with StatReloader
+INFO 2025-06-11 01:38:55,825 django.utils.autoreload 15206 140361456342848 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 01:38:56,338 django.utils.autoreload 15633 140251563808576 Watching for file changes with StatReloader
+INFO 2025-06-11 01:39:15,417 django.utils.autoreload 15633 140251563808576 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 01:39:15,926 django.utils.autoreload 15727 139708124309312 Watching for file changes with StatReloader
+INFO 2025-06-11 01:42:14,375 django.utils.autoreload 15727 139708124309312 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 01:42:14,936 django.utils.autoreload 16344 139802750256960 Watching for file changes with StatReloader
+INFO 2025-06-11 01:48:03,319 django.utils.autoreload 16344 139802750256960 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 01:48:04,526 django.utils.autoreload 17505 140604347479872 Watching for file changes with StatReloader
+INFO 2025-06-11 01:48:04,981 chats.middleware 17505 140604316018432 Request logging initialized
+INFO 2025-06-11 01:49:47,063 django.utils.autoreload 17505 140604347479872 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/messaging_app/settings.py changed, reloading.
+INFO 2025-06-11 01:49:48,090 django.utils.autoreload 17911 140361022043968 Watching for file changes with StatReloader
+INFO 2025-06-11 01:50:18,794 django.utils.autoreload 17911 140361022043968 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/messaging_app/settings.py changed, reloading.
+INFO 2025-06-11 01:50:20,179 django.utils.autoreload 18030 139720068384576 Watching for file changes with StatReloader
+INFO 2025-06-11 01:50:20,748 chats.middleware 18030 139720036923136 Request logging initialized
+INFO 2025-06-11 01:50:34,320 django.utils.autoreload 18030 139720068384576 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/messaging_app/settings.py changed, reloading.
+INFO 2025-06-11 01:50:35,560 django.utils.autoreload 18141 140201516013376 Watching for file changes with StatReloader
+INFO 2025-06-11 01:54:12,014 django.utils.autoreload 18141 140201516013376 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/messaging_app/settings.py changed, reloading.
+INFO 2025-06-11 01:54:13,302 django.utils.autoreload 18806 139927258658624 Watching for file changes with StatReloader
+INFO 2025-06-11 01:54:13,733 chats.middleware 18806 139927227197184 Request logging initialized
+INFO 2025-06-11 01:55:07,773 chats.middleware 18806 139927137806080 2025-06-11 01:55:07.772535+00:00 - User:   - Path: /api/admin/
+WARNING 2025-06-11 01:55:07,774 django.request 18806 139927137806080 Not Found: /api/admin/
+INFO 2025-06-11 01:55:17,770 chats.middleware 18806 139927137806080 2025-06-11 01:55:17.770575+00:00 - User:   - Path: /api/admin-auth/
+WARNING 2025-06-11 01:55:17,771 django.request 18806 139927137806080 Not Found: /api/admin-auth/
+INFO 2025-06-11 01:59:10,175 chats.middleware 18806 139927137806080 2025-06-11 01:59:10.175151+00:00 - User:   - Path: /api-auth/
+WARNING 2025-06-11 01:59:10,176 django.request 18806 139927137806080 Not Found: /api-auth/
+INFO 2025-06-11 01:59:21,307 chats.middleware 18806 139927137806080 2025-06-11 01:59:21.307087+00:00 - User:   - Path: /api-auth/login/
+INFO 2025-06-11 01:59:55,247 chats.middleware 18806 139927146198784 2025-06-11 01:59:55.247393+00:00 - User:   - Path: /api-auth/login/
+INFO 2025-06-11 01:59:55,474 chats.middleware 18806 139927146198784 2025-06-11 01:59:55.474056+00:00 - User:   - Path: /api/
+INFO 2025-06-11 01:59:59,993 chats.middleware 18806 139927146198784 2025-06-11 01:59:59.993853+00:00 - User:   - Path: /api/users/
+INFO 2025-06-11 02:01:34,450 django.utils.autoreload 18806 139927258658624 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 02:01:35,578 django.utils.autoreload 20329 139847711086400 Watching for file changes with StatReloader
+INFO 2025-06-11 02:01:36,005 chats.middleware 20329 139847679624960 Request logging initialized
+INFO 2025-06-11 02:01:58,655 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:01:58,754 chats.middleware 20329 139847665780480 2025-06-11 02:01:58.754774+00:00 - User:   - Path: /api/
+INFO 2025-06-11 02:02:01,347 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:02:01,356 chats.middleware 20329 139847665780480 2025-06-11 02:02:01.356756+00:00 - User:   - Path: /api/
+INFO 2025-06-11 02:02:17,972 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:02:18,034 chats.middleware 20329 139847665780480 2025-06-11 02:02:18.034040+00:00 - User:   - Path: /api/register/
+WARNING 2025-06-11 02:02:18,035 django.request 20329 139847665780480 Method Not Allowed: /api/register/
+INFO 2025-06-11 02:03:07,888 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:03:08,777 chats.middleware 20329 139847665780480 2025-06-11 02:03:08.777811+00:00 - User:   - Path: /api/register/
+INFO 2025-06-11 02:03:26,595 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:03:26,667 chats.middleware 20329 139847665780480 2025-06-11 02:03:26.667457+00:00 - User:   - Path: /api/login/
+WARNING 2025-06-11 02:03:26,668 django.request 20329 139847665780480 Not Found: /api/login/
+INFO 2025-06-11 02:07:00,817 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:07:00,986 chats.middleware 20329 139847665780480 2025-06-11 02:07:00.986832+00:00 - User:   - Path: /admin/
+INFO 2025-06-11 02:07:08,246 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:07:08,519 chats.middleware 20329 139847665780480 2025-06-11 02:07:08.519146+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-11 02:07:08,870 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:07:08,895 chats.middleware 20329 139847665780480 2025-06-11 02:07:08.895721+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:07:15,999 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:07:16,117 chats.middleware 20329 139847665780480 2025-06-11 02:07:16.117829+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-11 02:07:16,277 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:07:16,292 chats.middleware 20329 139847665780480 2025-06-11 02:07:16.292539+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:07:19,170 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:07:19,671 chats.middleware 20329 139847665780480 2025-06-11 02:07:19.671754+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-11 02:07:19,931 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:07:19,944 chats.middleware 20329 139847665780480 2025-06-11 02:07:19.944609+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:07:25,298 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:07:25,485 chats.middleware 20329 139847665780480 2025-06-11 02:07:25.485025+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-11 02:07:25,646 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:07:25,673 chats.middleware 20329 139847665780480 2025-06-11 02:07:25.673609+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:07:57,661 chats.middleware 20329 139847657125632 User role is granted access
+INFO 2025-06-11 02:07:57,808 chats.middleware 20329 139847657125632 2025-06-11 02:07:57.808337+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-11 02:07:57,967 chats.middleware 20329 139847657125632 User role is granted access
+INFO 2025-06-11 02:07:57,980 chats.middleware 20329 139847657125632 2025-06-11 02:07:57.980606+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:08:20,092 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:08:20,281 chats.middleware 20329 139847665780480 2025-06-11 02:08:20.281307+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-11 02:08:20,446 chats.middleware 20329 139847665780480 User role is granted access
+INFO 2025-06-11 02:08:20,460 chats.middleware 20329 139847665780480 2025-06-11 02:08:20.460355+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:08:48,924 chats.middleware 20329 139847657125632 User role is granted access
+INFO 2025-06-11 02:08:49,010 chats.middleware 20329 139847657125632 2025-06-11 02:08:49.009933+00:00 - User: Anonymous - Path: /admin/logout/
+INFO 2025-06-11 02:08:52,079 chats.middleware 20329 139847657125632 2025-06-11 02:08:52.079216+00:00 - User: Anonymous - Path: /admin/
+WARNING 2025-06-11 02:08:52,080 django.request 20329 139847657125632 Forbidden: /admin/
+INFO 2025-06-11 02:09:17,279 chats.middleware 20329 139847657125632 2025-06-11 02:09:17.279605+00:00 - User: Anonymous - Path: /api/
+WARNING 2025-06-11 02:09:17,281 django.request 20329 139847657125632 Forbidden: /api/
+INFO 2025-06-11 02:09:35,613 chats.middleware 20329 139847657125632 2025-06-11 02:09:35.613486+00:00 - User: Anonymous - Path: /api/login
+WARNING 2025-06-11 02:09:35,625 django.request 20329 139847657125632 Forbidden: /api/login
+INFO 2025-06-11 02:10:50,891 chats.middleware 20329 139847665780480 2025-06-11 02:10:50.891206+00:00 - User: Anonymous - Path: /
+WARNING 2025-06-11 02:10:50,892 django.request 20329 139847665780480 Forbidden: /
+INFO 2025-06-11 02:12:35,583 chats.middleware 20329 139847657125632 2025-06-11 02:12:35.583046+00:00 - User: Anonymous - Path: /admin/chats/customuser/
+WARNING 2025-06-11 02:12:35,584 django.request 20329 139847657125632 Forbidden: /admin/chats/customuser/
+INFO 2025-06-11 02:12:49,100 chats.middleware 20329 139847657125632 2025-06-11 02:12:49.099952+00:00 - User: Anonymous - Path: /admin/chats/
+WARNING 2025-06-11 02:12:49,100 django.request 20329 139847657125632 Forbidden: /admin/chats/
+INFO 2025-06-11 02:12:55,775 chats.middleware 20329 139847665780480 2025-06-11 02:12:55.775525+00:00 - User: Anonymous - Path: /admin/
+WARNING 2025-06-11 02:12:55,776 django.request 20329 139847665780480 Forbidden: /admin/
+INFO 2025-06-11 02:13:10,535 chats.middleware 20329 139847665780480 2025-06-11 02:13:10.535296+00:00 - User: Anonymous - Path: /api/register/
+WARNING 2025-06-11 02:13:10,539 django.request 20329 139847665780480 Forbidden: /api/register/
+INFO 2025-06-11 02:13:30,459 django.utils.autoreload 20329 139847711086400 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/messaging_app/settings.py changed, reloading.
+INFO 2025-06-11 02:13:32,238 django.utils.autoreload 23003 139767547352896 Watching for file changes with StatReloader
+INFO 2025-06-11 02:13:32,911 chats.middleware 23003 139767515891456 Request logging initialized
+INFO 2025-06-11 02:13:35,844 chats.middleware 23003 139767421331200 2025-06-11 02:13:35.844314+00:00 - User: Anonymous - Path: /api/register/
+WARNING 2025-06-11 02:13:35,856 django.request 23003 139767421331200 Unauthorized: /api/register/
+INFO 2025-06-11 02:17:13,608 django.utils.autoreload 23003 139767547352896 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 02:17:14,925 django.utils.autoreload 23676 140304054175552 Watching for file changes with StatReloader
+INFO 2025-06-11 02:17:36,141 django.utils.autoreload 23676 140304054175552 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 02:17:37,211 django.utils.autoreload 23761 140711309748032 Watching for file changes with StatReloader
+INFO 2025-06-11 02:17:37,604 chats.middleware 23761 140711278286592 Request logging initialized
+INFO 2025-06-11 02:17:45,154 django.utils.autoreload 23761 140711309748032 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/messaging_app/settings.py changed, reloading.
+INFO 2025-06-11 02:17:46,842 django.utils.autoreload 23855 140502814197568 Watching for file changes with StatReloader
+INFO 2025-06-11 02:18:21,678 django.utils.autoreload 23855 140502814197568 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 02:18:22,922 django.utils.autoreload 23969 140541421426496 Watching for file changes with StatReloader
+INFO 2025-06-11 02:18:23,443 chats.middleware 23969 140541389965056 Request logging initialized
+INFO 2025-06-11 02:18:41,547 chats.middleware 23969 140541375858432 2025-06-11 02:18:41.547556+00:00 - User: Anonymous - Path: /api/register/
+WARNING 2025-06-11 02:18:41,548 django.request 23969 140541375858432 Forbidden: /api/register/
+INFO 2025-06-11 02:18:58,481 chats.middleware 23969 140541367092992 2025-06-11 02:18:58.481231+00:00 - User: Anonymous - Path: /admin/
+WARNING 2025-06-11 02:18:58,484 django.request 23969 140541367092992 Forbidden: /admin/
+INFO 2025-06-11 02:33:56,565 django.utils.autoreload 23969 140541421426496 /home/alxprodev/alx-backend-python/Django-Middleware-0x03/chats/middleware.py changed, reloading.
+INFO 2025-06-11 02:33:58,817 django.utils.autoreload 26550 139881369372480 Watching for file changes with StatReloader
+INFO 2025-06-11 02:33:59,266 chats.middleware 26550 139881337911040 Request logging initialized
+INFO 2025-06-11 02:34:03,617 chats.middleware 26550 139881324066560 2025-06-11 02:34:03.616843+00:00 - User: Anonymous - Path: /admin/
+INFO 2025-06-11 02:34:03,920 chats.middleware 26550 139881324066560 2025-06-11 02:34:03.920036+00:00 - User: Anonymous - Path: /admin/login/
+INFO 2025-06-11 02:34:10,314 chats.middleware 26550 139881324066560 2025-06-11 02:34:10.314591+00:00 - User:   - Path: /admin/login/
+INFO 2025-06-11 02:34:10,513 chats.middleware 26550 139881324066560 2025-06-11 02:34:10.513664+00:00 - User:   - Path: /admin/
+INFO 2025-06-11 02:35:00,972 chats.middleware 26550 139881324066560 User role is granted access
+INFO 2025-06-11 02:35:01,052 chats.middleware 26550 139881324066560 2025-06-11 02:35:01.052698+00:00 - User:   - Path: /api/
+INFO 2025-06-11 02:35:14,774 chats.middleware 26550 139881324066560 User role is granted access
+INFO 2025-06-11 02:35:14,891 chats.middleware 26550 139881324066560 2025-06-11 02:35:14.891500+00:00 - User: Anonymous - Path: /api-auth/logout/
+INFO 2025-06-11 02:35:14,912 chats.middleware 26550 139881324066560 2025-06-11 02:35:14.912169+00:00 - User: Anonymous - Path: /api/
+WARNING 2025-06-11 02:35:14,913 django.request 26550 139881324066560 Forbidden: /api/
+INFO 2025-06-11 02:37:19,727 chats.middleware 26550 139881324066560 2025-06-11 02:37:19.727416+00:00 - User: Anonymous - Path: /admin/
+INFO 2025-06-11 02:37:19,797 chats.middleware 26550 139881324066560 2025-06-11 02:37:19.797052+00:00 - User: Anonymous - Path: /admin/login/
+INFO 2025-06-11 02:37:25,280 chats.middleware 26550 139881324066560 2025-06-11 02:37:25.280777+00:00 - User:   - Path: /admin/login/
+INFO 2025-06-11 02:37:25,485 chats.middleware 26550 139881324066560 2025-06-11 02:37:25.485768+00:00 - User:   - Path: /admin/
+INFO 2025-06-11 02:37:34,333 chats.middleware 26550 139881324066560 2025-06-11 02:37:34.333487+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-11 02:37:34,466 chats.middleware 26550 139881324066560 2025-06-11 02:37:34.466500+00:00 - User:   - Path: /admin/
+INFO 2025-06-11 02:37:39,059 chats.middleware 26550 139881324066560 2025-06-11 02:37:39.059922+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-11 02:37:39,134 chats.middleware 26550 139881324066560 2025-06-11 02:37:39.134194+00:00 - User:   - Path: /admin/
+INFO 2025-06-11 02:37:40,735 chats.middleware 26550 139881324066560 2025-06-11 02:37:40.735383+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-11 02:37:40,849 chats.middleware 26550 139881324066560 2025-06-11 02:37:40.849690+00:00 - User:   - Path: /admin/
+INFO 2025-06-11 02:37:42,448 chats.middleware 26550 139881324066560 2025-06-11 02:37:42.448025+00:00 - User:   - Path: /admin/auth/group/2/change/
+INFO 2025-06-11 02:37:42,672 chats.middleware 26550 139881324066560 2025-06-11 02:37:42.672432+00:00 - User:   - Path: /admin/
+INFO 2025-06-11 02:37:50,931 chats.middleware 26550 139881324066560 2025-06-11 02:37:50.931052+00:00 - User:   - Path: /admin/auth/group/
+INFO 2025-06-11 02:37:51,246 chats.middleware 26550 139881324066560 2025-06-11 02:37:51.246032+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:37:55,541 chats.middleware 26550 139881324066560 2025-06-11 02:37:55.541540+00:00 - User:   - Path: /admin/
+INFO 2025-06-11 02:37:59,473 chats.middleware 26550 139881324066560 2025-06-11 02:37:59.473527+00:00 - User:   - Path: /admin/chats/customuser/ba5af311-71fb-4f04-9100-283f490aa328/change/
+INFO 2025-06-11 02:37:59,721 chats.middleware 26550 139881324066560 2025-06-11 02:37:59.721197+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:38:10,492 chats.middleware 26550 139881324066560 2025-06-11 02:38:10.491943+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-11 02:38:10,712 chats.middleware 26550 139881324066560 2025-06-11 02:38:10.712752+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:38:16,074 chats.middleware 26550 139881324066560 2025-06-11 02:38:16.074877+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-11 02:38:16,222 chats.middleware 26550 139881324066560 2025-06-11 02:38:16.222590+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:38:22,026 chats.middleware 26550 139881324066560 2025-06-11 02:38:22.026600+00:00 - User:   - Path: /admin/chats/customuser/ed1c3d91-9ca2-47ea-a9fe-e4c9fa337408/change/
+INFO 2025-06-11 02:38:22,191 chats.middleware 26550 139881324066560 2025-06-11 02:38:22.191334+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:38:37,507 chats.middleware 26550 139881324066560 2025-06-11 02:38:37.507130+00:00 - User:   - Path: /admin/chats/customuser/ed1c3d91-9ca2-47ea-a9fe-e4c9fa337408/change/
+INFO 2025-06-11 02:38:37,674 chats.middleware 26550 139881324066560 2025-06-11 02:38:37.674780+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-11 02:38:37,910 chats.middleware 26550 139881324066560 2025-06-11 02:38:37.909981+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:38:43,038 chats.middleware 26550 139881324066560 2025-06-11 02:38:43.038763+00:00 - User:   - Path: /admin/chats/customuser/
+INFO 2025-06-11 02:38:43,194 chats.middleware 26550 139881324066560 2025-06-11 02:38:43.194418+00:00 - User:   - Path: /admin/jsi18n/
+INFO 2025-06-11 02:39:00,870 chats.middleware 26550 139881324066560 User role is granted access
+INFO 2025-06-11 02:39:00,913 chats.middleware 26550 139881324066560 2025-06-11 02:39:00.913124+00:00 - User:   - Path: /api/
+INFO 2025-06-11 02:39:04,821 chats.middleware 26550 139881324066560 User role is granted access
+INFO 2025-06-11 02:39:04,918 chats.middleware 26550 139881324066560 2025-06-11 02:39:04.918123+00:00 - User:   - Path: /api/users/
+INFO 2025-06-11 03:25:22,412 django.utils.autoreload 37836 140663992575808 Watching for file changes with StatReloader
+INFO 2025-06-11 03:25:22,969 chats.middleware 37836 140663961114368 Request logging initialized
+INFO 2025-06-11 03:25:29,526 chats.middleware 37836 140663869929216 User role is granted access
+INFO 2025-06-11 03:25:29,693 chats.middleware 37836 140663869929216 2025-06-11 03:25:29.692902+00:00 - User:   - Path: /
+WARNING 2025-06-11 03:25:29,694 django.request 37836 140663869929216 Not Found: /
+INFO 2025-06-11 03:25:36,928 chats.middleware 37836 140663869929216 User role is granted access
+INFO 2025-06-11 03:25:37,088 chats.middleware 37836 140663869929216 2025-06-11 03:25:37.088303+00:00 - User:   - Path: /api/
+INFO 2025-06-11 03:25:42,203 chats.middleware 37836 140663869929216 User role is granted access
+INFO 2025-06-11 03:25:42,243 chats.middleware 37836 140663869929216 2025-06-11 03:25:42.243415+00:00 - User: Anonymous - Path: /api-auth/logout/
+INFO 2025-06-11 03:25:42,264 chats.middleware 37836 140663869929216 2025-06-11 03:25:42.264407+00:00 - User: Anonymous - Path: /api/
+WARNING 2025-06-11 03:25:42,265 django.request 37836 140663869929216 Forbidden: /api/
+INFO 2025-06-11 03:25:49,116 chats.middleware 37836 140663947269888 2025-06-11 03:25:49.116570+00:00 - User: Anonymous - Path: /admin/
+INFO 2025-06-11 03:25:49,253 chats.middleware 37836 140663947269888 2025-06-11 03:25:49.253895+00:00 - User: Anonymous - Path: /admin/login/
+INFO 2025-06-11 03:25:55,516 chats.middleware 37836 140663947269888 2025-06-11 03:25:55.516146+00:00 - User:   - Path: /admin/login/
+INFO 2025-06-11 03:25:55,767 chats.middleware 37836 140663947269888 2025-06-11 03:25:55.766956+00:00 - User:   - Path: /admin/
+INFO 2025-06-11 03:26:04,390 chats.middleware 37836 140663947269888 User role is granted access
+INFO 2025-06-11 03:26:04,413 chats.middleware 37836 140663947269888 2025-06-11 03:26:04.413820+00:00 - User:   - Path: /api/
+INFO 2025-06-11 03:26:07,213 chats.middleware 37836 140663947269888 User role is granted access
+INFO 2025-06-11 03:26:07,906 chats.middleware 37836 140663947269888 2025-06-11 03:26:07.906283+00:00 - User:   - Path: /api/conversations/
+INFO 2025-07-15 01:25:07,601 django.utils.autoreload 12305 139888172222272 Watching for file changes with StatReloader
+INFO 2025-07-15 01:25:07,938 chats.middleware 12305 139888140760832 Request logging initialized
+INFO 2025-07-15 01:25:12,242 chats.middleware 12305 139888118523648 2025-07-15 01:25:12.241940+00:00 - User: Anonymous - Path: /
+WARNING 2025-07-15 01:25:12,242 django.request 12305 139888118523648 Forbidden: /
+INFO 2025-07-15 01:25:13,249 chats.middleware 12305 139888118523648 2025-07-15 01:25:13.249266+00:00 - User: Anonymous - Path: /favicon.ico
+WARNING 2025-07-15 01:25:13,249 django.request 12305 139888118523648 Forbidden: /favicon.ico
+INFO 2025-07-15 01:25:32,207 chats.middleware 12305 139888118523648 2025-07-15 01:25:32.207198+00:00 - User: Anonymous - Path: /Admin/
+WARNING 2025-07-15 01:25:32,207 django.request 12305 139888118523648 Forbidden: /Admin/
+INFO 2025-07-15 01:25:32,436 chats.middleware 12305 139888118523648 2025-07-15 01:25:32.436384+00:00 - User: Anonymous - Path: /favicon.ico
+WARNING 2025-07-15 01:25:32,436 django.request 12305 139888118523648 Forbidden: /favicon.ico
+INFO 2025-07-15 01:26:07,667 django.utils.autoreload 12305 139888172222272 /home/alxprodev/alx-backend-security/messaging_app/settings.py changed, reloading.
+INFO 2025-07-15 01:26:08,204 django.utils.autoreload 12631 140429943736128 Watching for file changes with StatReloader
+INFO 2025-07-15 01:26:08,451 chats.middleware 12631 140429912274688 Request logging initialized
+INFO 2025-07-15 01:26:11,913 chats.middleware 12631 140429890037504 2025-07-15 01:26:11.913360+00:00 - User: Anonymous - Path: /Admin/
+WARNING 2025-07-15 01:26:11,913 django.request 12631 140429890037504 Not Found: /Admin/
+INFO 2025-07-15 01:26:12,433 chats.middleware 12631 140429890037504 2025-07-15 01:26:12.433875+00:00 - User: Anonymous - Path: /favicon.ico
+WARNING 2025-07-15 01:26:12,434 django.request 12631 140429890037504 Not Found: /favicon.ico
+INFO 2025-07-15 01:26:20,590 chats.middleware 12631 140429890037504 2025-07-15 01:26:20.590848+00:00 - User: Anonymous - Path: /admin/
+INFO 2025-07-15 01:26:20,658 chats.middleware 12631 140429890037504 2025-07-15 01:26:20.658829+00:00 - User: Anonymous - Path: /admin/login/
+INFO 2025-07-15 01:27:16,667 chats.middleware 12631 140429898430208 2025-07-15 01:27:16.667857+00:00 - User:   - Path: /admin/login/
+INFO 2025-07-15 01:27:16,821 chats.middleware 12631 140429898430208 2025-07-15 01:27:16.821565+00:00 - User:   - Path: /admin/

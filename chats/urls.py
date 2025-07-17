@@ -2,6 +2,7 @@ from django.urls import path, include
 from rest_framework import routers
 from rest_framework_nested import routers
 from .views import UserViewSet, ConversationViewSet, MessageViewSet, UserRegisterAPIView
+from ip_tracking.views import LoginAPIView
 
 #Base router
 router = routers.DefaultRouter()
@@ -17,4 +18,5 @@ urlpatterns = [
     path('', include(router.urls)),
     path('', include(conversation_router.urls)),
     path('register/', UserRegisterAPIView.as_view(), name='register')
+    path('login/', LoginAPIView.as_view(), name='custom_login'),
 ]

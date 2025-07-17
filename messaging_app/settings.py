@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'chats',
     'accounts',
     'django_filters',
+    'ratelimit',
 ]
 
 MIDDLEWARE = [

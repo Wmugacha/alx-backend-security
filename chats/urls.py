@@ -17,6 +17,6 @@ conversation_router.register(r'messages', MessageViewSet, basename='conversation
 urlpatterns = [
     path('', include(router.urls)),
     path('', include(conversation_router.urls)),
-    path('register/', UserRegisterAPIView.as_view(), name='register')
+    path('register/', UserRegisterAPIView.as_view(), name='register'),
     path('login/', LoginAPIView.as_view(), name='custom_login'),
 ]

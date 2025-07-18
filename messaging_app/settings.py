@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'accounts',
     'django_filters',
     'ratelimit',
+    'django_celery_beat',
 ]
 
 MIDDLEWARE = [
@@ -227,3 +228,11 @@ LOGGING = {
         'level': 'INFO',
     },
 }
+
+# Celery settings
+CELERY_BROKER_URL = 'amqp://root:root@localhost:5672/myvhost'
+CELERY_ACCEPT_CONTENT = ['json']
+CELERY_TASK_SERIALIZER = 'json'
+CELERY_RESULT_BACKEND = 'rpc://'
+CELERY_TASK_SERIALIZER = 'json'
+CELERY_TIMEZONE = 'UTC'
